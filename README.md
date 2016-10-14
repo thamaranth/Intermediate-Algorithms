@@ -9,11 +9,11 @@ https://www.freecodecamp.com/map
 
 ## Specifications
 
-- [ ] Complete each algortithm of the intermediate algorithm scripting section on https://www/freecodecamp.com/map
+- [X] Complete each algortithm of the intermediate algorithm scripting section on https://www/freecodecamp.com/map
 
 ### Required
 
-- [ ] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
+- [X] The artifact produced is properly licensed, preferably with the [MIT license][mit-license].
 
 ## Quality Rubric
 
